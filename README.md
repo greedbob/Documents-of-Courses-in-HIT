@@ -10,6 +10,6 @@
 ---
 ### 研究生课程
 
-* [薄膜材料科学 Thin-Films](Physics-of-Materials/Physics-of-Materials.ipynb)
+* [薄膜材料科学 Thin-Films](Thin-Films/薄膜.ipynb)
 
-* [材料物理 Physics-of-Materials](Thin-Films/薄膜.ipynb)
+* [材料物理 Physics-of-Materials](Physics-of-Materials/Physics-of-Materials.ipynb)
